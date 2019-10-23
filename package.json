@@ -1,0 +1,27 @@
+{
+  "name": "@ion-cloud/ink",
+  "version": "1.0.0",
+  "description": "A tiny javascript color manipulation and translation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ion-cloud/ink.git"
+  },
+  "keywords": [
+    "javascript",
+    "ion-cloud",
+    "game-dev",
+    "color",
+    "translation",
+    "manipulation"
+  ],
+  "author": "NathanielInman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ion-cloud/ink/issues"
+  },
+  "homepage": "https://github.com/ion-cloud/ink#readme"
+}
